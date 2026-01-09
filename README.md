@@ -3,7 +3,7 @@
 This is an IPFS datastore implementation backed by an Adaptive Replacement
 Cache (ARC).
 
-From [golang-lru/arc]():
+From [golang-lru/arc](github.com/hashicorp/golang-lru):
 
 > ARC is an enhancement over the standard LRU cache in that tracks both
 > frequency and recency of use. This avoids a burst in access to new
